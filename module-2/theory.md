@@ -1,8 +1,5 @@
 # What is IDE?
-
-```
 An IDE (Integrated Development Environment) is software that provides tools for coding, debugging, and testing in one place (e.g., code editor, compiler, debugger).
-```
 
 # What is URL?
 A URL (Uniform Resource Locator) is the address used to access a resource on the internet (e.g., https://www.example.com).
